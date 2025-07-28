@@ -16,7 +16,7 @@
 - Built an interactive Power BI dashboard to analyze pharmacy sales across various country.
 - Included filters by date, region, and product category.
 - Helped identify underperforming branches and top-selling drugs.
-- 🔗 [GitHub Repo](#) *(add actual link when ready)*
+- 🔗 [GitHub Repo](#) *((https://github.com/Oyinkon/Oyinkon/blob/main/pharmacy%20otc.pbix))*
 
 ### ☕ Coffee Sales Dashboard Report
 - Designed a Power BI dashboard to track coffee product sales.
