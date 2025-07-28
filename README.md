@@ -17,6 +17,7 @@
 - Included filters by date, region, and product category.
 - Helped identify underperforming branches and top-selling drugs.
 - 🔗 [GitHub Repo](#) *((https://github.com/Oyinkon/Oyinkon/blob/main/pharmacy%20otc.pbix))*
+- https://github.com/Oyinkon/Oyinkon/commit/d3376e3014ad3a68d9ad75bb7b174d1753ecf5c0
 
 ### ☕ Coffee Sales Dashboard Report
 - Designed a Power BI dashboard to track coffee product sales.
